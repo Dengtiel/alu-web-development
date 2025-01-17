@@ -1,0 +1,27 @@
+/* styles.css */
+
+/* Additional styling for header */
+header {
+  background-color: #f8f8f8;
+}
+
+/* Styling for navigation links */
+header li a:hover {
+  color: #F80002;
+}
+
+/* Styling for main content */
+main {
+  background-color: #ffffff;
+}
+
+/* Styling for footer */
+footer {
+  background-color: #f8f8f8;
+  text-align: center;
+  padding: 20px 0;
+}
+
+footer p {
+  margin: 0;
+}
